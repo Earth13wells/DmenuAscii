@@ -1,0 +1,9 @@
+ # Get user selection via dmenu from emoji file.
+ chosen=$(cat ~/DmenuAscii/ASCII | dmenu -i -l 25 | sed "s/ .*//")
+ 
+ # Exit if none chosen.
+ [ -z "$chosen" ] && exit
+ 
+ #show a message that the emoji has been copied.
+ echo "$chosen" | tr -d '\n' | xclip -selection clipboard
+ notify-send "'$chosen' copied to clipboard." &
