@@ -1,0 +1,128 @@
+0  \0 Null
+1     Start of Heading
+2     Start of Text
+3     End of Text
+4     End of Transmission
+5     Enquiry
+6     Acknowledgement
+7  \a Bell
+8  \b Back Space
+9  \t Horizontal Tab
+10 \n Line Feed
+11 \v Vertical Tab
+12 \f Form Feed
+13 \r Carriage Return
+14    Shift Out
+15    Shift In
+16    Data Link Escape
+17    Device Control 1
+18    Device Control 2
+19    Device Control 3
+20    Device Control 4
+21    Negative Acknowledge
+22    Synchronous Idle
+23    End of Transmit Block
+24    Cancel
+25    End of Medium
+26    Substitute
+27 \e Escape
+28    File Separator
+29    Group Separator
+30    Record Separator
+31    Unit Separator
+32    Space
+33  ! Exclamation mark
+34  " Double quotes
+35  # Number
+36  $ Dollar
+37  % Percent
+38  & Ampersand
+39  ' Single quote
+40  ( Open bracket
+41  ) Close bracket
+42  * Asterisk
+43  + Plus
+44  , Comma
+45  - Hyphen
+46  . Period or full stop
+47  / Slash or divide
+48  0 Zero
+49  1 One
+50  2 Two
+51  3 Three
+52  4 Four
+53  5 Five
+54  6 Six
+55  7 Seven
+56  8 Eight
+57  9 Nine
+58  : Colon
+59  ; Semicolon
+60  < Less than
+61  = Equals
+62  > Greater than
+63  ? Question mark
+64  @ At sign
+65  A Uppercase A
+66  B Uppercase B
+67  C Uppercase C
+68  D Uppercase D
+69  E Uppercase E
+70  F Uppercase F
+71  G Uppercase G
+72  H Uppercase H
+73  I Uppercase I
+74  J Uppercase J
+75  K Uppercase K
+76  L Uppercase L
+77  M Uppercase M
+78  N Uppercase N
+79  O Uppercase O
+80  P Uppercase P
+81  Q Uppercase Q
+82  R Uppercase R
+83  S Uppercase S
+84  T Uppercase T
+85  U Uppercase U
+86  V Uppercase V
+87  W Uppercase W
+88  X Uppercase X
+89  Y Uppercase Y
+90  Z Uppercase Z
+91  [ Opening bracket
+92  \ Backslash
+93  ] Closing bracket
+94  ^ Caret
+95  _ Underscore
+96  ` Grave accent
+97  a Lowercase a
+98  b Lowercase b
+99  c Lowercase c
+100 d Lowercase d
+101 e Lowercase e
+102 f Lowercase f
+103 g Lowercase g
+104 h Lowercase h
+105 i Lowercase i
+106 j Lowercase j
+107 k Lowercase k
+108 l Lowercase l
+109 m Lowercase m
+110 n Lowercase n
+111 o Lowercase o
+112 p Lowercase p
+113 q Lowercase q
+114 r Lowercase r
+115 s Lowercase s
+116 t Lowercase t
+117 U Lowercase u
+118 v Lowercase v
+119 w Lowercase w
+120 x Lowercase x
+121 y Lowercase y
+122 z Lowercase z
+123 { Opening brace
+124 | Vertical bar
+125 } Closing brace
+126 ~ Equivalency - tilde
+127   Delete
