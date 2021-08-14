@@ -126,3 +126,131 @@
 125 } Closing brace
 126 ~ Equivalency - tilde
 127   Delete
+128 Ç Majuscule C-cedilla
+129 ü letter u with umlaut or diaeresis, u-umlaut
+130 é letter e with acute accent or e-acute
+131 â letter a with circumflex accent or a-circumflex
+132 ä letter a with umlaut or diaeresis, a-umlaut
+133 à letter a with grave accent
+134 å letter a with a ring
+135 ç Minuscule c-cedilla
+136 ê letter e with circumflex accent or e-circumflex
+137 ë letter e with umlaut or diaeresis ; e-umlauts
+138 è letter e with grave accent
+139 ï letter i with umlaut or diaeresis ; i-umlaut
+140 î letter i with circumflex accent or i-circumflex
+141 ì letter i with grave accent
+142 Ä letter A with umlaut or diaeresis ; A-umlaut
+143 Å Capital letter A with a ring
+144 É Capital letter E with acute accent or E-acute
+145 æ Latin diphthong ae in lowercase
+146 Æ Latin diphthong AE in uppercase
+147 ô letter o with circumflex accent or o-circumflex
+148 ö letter o with umlaut or diaeresis ; o-umlaut
+149 ò letter o with grave accent
+150 û letter u with circumflex accent or u-circumflex
+151 ù letter u with grave accent
+152 ÿ Lowercase letter y with diaeresis
+153 Ö Letter O with umlaut or diaeresis ; O-umlaut
+154 Ü Letter U with umlaut or diaeresis ; U-umlaut
+155 ø Lowercase slashed zero or empty set
+156 £ Pound sign ; symbol for the pound sterling
+157 Ø Uppercase slashed zero or empty set
+158 × Multiplication sign
+159 ƒ Function sign ; f with hook sign ; florin sign
+160 á Lowercase letter a with acute accent or a-acute
+161 í Lowercase letter i with acute accent or i-acute
+162 ó Lowercase letter o with acute accent or o-acute
+163 ú Lowercase letter u with acute accent or u-acute
+164 ñ eñe, enie, spanish letter enye, lowercase n with tilde
+165 Ñ Spanish letter enye, uppercase N with tilde, EÑE, enie
+166 ª feminine ordinal indicator
+167 º masculine ordinal indicator
+168 ¿ Inverted question marks
+169 ® Registered trademark symbol
+170 ¬ Logical negation symbol
+171 ½ One half
+172 ¼ Quarter, one fourth
+173 ¡ Inverted exclamation marks
+174 « Angle quotes, guillemets, right-pointing quotation mark
+175 » Guillemets, angle quotes, left-pointing quotation marks
+176 ░ Graphic character, low density dotted
+177 ▒ Graphic character, medium density dotted
+178 ▓ Graphic character, high density dotted
+179 │ Box drawing character single vertical line
+180 ┤ Box drawing character single vertical and left line
+181 Á Capital letter A with acute accent or A-acute
+182 Â Letter A with circumflex accent or A-circumflex
+183 À Letter A with grave accent
+184 © Copyright symbol
+185 ╣ Box drawing character double line vertical and left
+186 ║ Box drawing character double vertical line
+187 ╗ Box drawing character double line upper right corner
+188 ╝ Box drawing character double line lower right corner
+189 ¢ Cent symbol
+190 ¥ YEN and YUAN sign
+191 ┐ Box drawing character single line upper right corner
+192 └ Box drawing character single line lower left corner
+193 ┴ Box drawing character single line horizontal and up
+194 ┬ Box drawing character single line horizontal down
+195 ├ Box drawing character single line vertical and right
+196 ─ Box drawing character single horizontal line
+197 ┼ Box drawing character single line horizontal vertical
+198 ã Lowercase letter a with tilde or a-tilde
+199 Ã Capital letter A with tilde or A-tilde
+200 ╚ Box drawing character double line lower left corner
+201 ╔ Box drawing character double line upper left corner
+202 ╩ Box drawing character double line horizontal and up
+203 ╦ Box drawing character double line horizontal down
+204 ╠ Box drawing character double line vertical and right
+205 ═ Box drawing character double horizontal line
+206 ╬ Box drawing character double line horizontal vertical
+207 ¤ Generic currency sign
+208 ð Lowercase letter eth
+209 Ð Capital letter Eth
+210 Ê Letter E with circumflex accent or E-circumflex
+211 Ë Letter E with umlaut or diaeresis, E-umlaut
+212 È Capital letter E with grave accent
+213 ı Lowercase dot less i
+214 Í Capital letter I with acute accent or I-acute
+215 Î Letter I with circumflex accent or I-circumflex
+216 Ï Letter I with umlaut or diaeresis ; I-umlaut
+217 ┘ Box drawing character single line lower right corner
+218 ┌ Box drawing character single line upper left corner
+219 █ Block, graphic character
+220 ▄ Bottom half block
+221 ¦ Vertical broken bar
+222 Ì Capital letter I with grave accent
+223 ▀ Top half block
+224 Ó Capital letter O with acute accent or O-acute
+225 ß Letter Eszett ; scharfes S or sharp S
+226 Ô Letter O with circumflex accent or O-circumflex
+227 Ò Capital letter O with grave accent
+228 õ Lowercase letter o with tilde or o-tilde
+229 Õ Capital letter O with tilde or O-tilde
+230 µ Lowercase letter Mu ; micro sign or micron
+231 þ Lowercase letter Thorn
+232 Þ Capital letter Thorn
+233 Ú Capital letter U with acute accent or U-acute
+234 Û Letter U with circumflex accent or U-circumflex
+235 Ù Capital letter U with grave accent
+236 ý Lowercase letter y with acute accent
+237 Ý Capital letter Y with acute accent
+238 ¯ Macron symbol
+239 ´ Acute accent
+240 ≡ Congruence relation symbol
+241 ± Plus-minus sign
+242 ‗ underline or underscore
+243 ¾ three quarters, three-fourths
+244 ¶ Paragraph sign or pilcrow ; end paragraph mark
+245 § Section sign
+246 ÷ The division sign ; Obelus
+247 ¸ cedilla
+248 ° Degree symbol
+249 ¨ Diaresis
+250 · Interpunct or space dot
+251 ¹ Superscript one, exponent 1, first power
+252 ³ Superscript three, exponent 3, cube, third power
+253 ² Superscript two, exponent 2, square, second power
+254 ■ black square
+255 nbsp Non-breaking space or no-break space
